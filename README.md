@@ -13,10 +13,9 @@ com classificação de imagens.</p>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### STATUS DO PROJETO
+### STATUS DE CONTRIBUIÇAO DO PROJETO
 
-![CI](https://github.com/Elifelete-Cavalcante20/Projeto_Agrcultura_De_Precisao/actions/workflows/main.yml/badge.svg)
-
+<img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Elifelete-Cavalcante20&repo=Projeto_Agrcultura_De_Precisao&theme=holi" />
 
 
 ### INTEGRANTES
