@@ -8,22 +8,15 @@ Este projeto está sendo desenvolvido como parte das atividades acadêmicas para
 Este projeto tem como objetivo desenvolver um sistema de classificação de imagens agrícolas (ex: folhas de plantas, solo, culturas, pragas) utilizando técnicas de visão computacional e aprendizado de máquina, com foco na análise da complexidade dos algoritmos utilizados.
 Aplicado no contexto da agricultura de precisão, o projeto busca contribuir para o monitoramento inteligente de lavouras por meio da detecção automatizada de condições de plantio, pragas, doenças ou deficiências nutricionais..</p>
 
-### Objetivos
+### OBJETIVOS
 
 - Aplicar técnicas de aprendizado de máquina para classificação de imagens agrícolas.
-
 - Avaliar e comparar a complexidade de algoritmos usados em diferentes etapas do pipeline:
-
 - Pré-processamento de imagens
-
 - Extração de características
-
 - Classificação
-
 - Discutir o impacto da complexidade computacional no desempenho do sistema para uso em campo (em dispositivos embarcados, drones, etc).
-
 - Implementar um protótipo funcional com dataset real ou simulado.
-
 
 ### TECNOLOGIAS 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
