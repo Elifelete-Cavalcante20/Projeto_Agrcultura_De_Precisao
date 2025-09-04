@@ -1,5 +1,8 @@
 # 🌱 AGRICULTURA DE PRECISÃO 🌱
 
+📚 Projeto Acadêmico
+Este projeto está sendo desenvolvido como parte das atividades acadêmicas da minha graduação na Universidade Cruzeiro do Sul.
+
 ### DESCRIÇAO 
 <p>Projeto universitário da matéria de complexidade de algoritmos voltado para a agricultura de precisão
 com classificação de imagens.</p>
