@@ -1,10 +1,5 @@
 # 🌱 AGRICULTURA DE PRECISÃO 🌱
 
-Título: Classificação de Imagens Aplicada à Agricultura de Precisão<br>
-Disciplina: Complexidade de Algoritmos<br>
-Curso: Ciência da Computação<br>
-Universidade: Universidade Cruzeiro do Sul<br>
-
 ### 📚 Projeto Acadêmico
 Este projeto está sendo desenvolvido como parte das atividades acadêmicas para a graduação da equipe na Universidade Cruzeiro do Sul.
 
@@ -51,3 +46,9 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
 - Gabriel Lopes
 - Emanuel Moura
 - Carlos Eduardo
+
+**Título:** Classificação de Imagens Aplicada à Agricultura de Precisão<br>
+**Disciplina:** Complexidade de Algoritmos<br>
+**Curso:** Ciência da Computação<br>
+**Universidade:** Universidade Cruzeiro do Sul<br>
+  
