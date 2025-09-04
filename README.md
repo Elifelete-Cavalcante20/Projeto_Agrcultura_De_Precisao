@@ -6,7 +6,7 @@ Este projeto está sendo desenvolvido como parte das atividades acadêmicas para
 ### DESCRIÇAO 
 <p>
 Este projeto tem como objetivo desenvolver um sistema de classificação de imagens agrícolas (ex: folhas de plantas, solo, culturas, pragas) utilizando técnicas de visão computacional e aprendizado de máquina, com foco na análise da complexidade dos algoritmos utilizados.
-Aplicado no contexto da agricultura de precisão, o projeto busca contribuir para o monitoramento inteligente de lavouras por meio da detecção automatizada de condições de plantio, pragas, doenças ou deficiências nutricionais..</p>
+Aplicado no contexto da agricultura de precisão, o projeto busca contribuir para o monitoramento inteligente de lavouras por meio da detecção automatizada de condições de plantio, pragas, doenças ou deficiências nutricionais.</p>
 
 ### OBJETIVOS
 
