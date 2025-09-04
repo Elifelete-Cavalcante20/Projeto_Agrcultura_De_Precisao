@@ -1,6 +1,6 @@
 # 🌱 AGRICULTURA DE PRECISÃO 🌱
 
-### 📚 Projeto Acadêmico
+### 📚 PROJETO ACADÊMICO
 Este projeto está sendo desenvolvido como parte das atividades acadêmicas para a graduação da equipe na Universidade Cruzeiro do Sul.
 
 ### DESCRIÇAO 
