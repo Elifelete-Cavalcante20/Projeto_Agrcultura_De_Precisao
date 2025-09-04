@@ -33,22 +33,20 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### STATUS DE CONTRIBUIÇAO DO PROJETO
+### INTEGRANTES:
+- Elifelete Cavalcante  
+- Daniel Lopes  
+- Murilo Laino  
+- Gabriel Gardenal  
+- Gabriel Lopes  
+- Emanuel Moura  
+- Carlos Eduardo  
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Elifelete-Cavalcante20&repo=Projeto_Agrcultura_De_Precisao&theme=holi" />
-
-
-### INTEGRANTES
-- Elifelete Cavalcante
-- Daniel Lopes
-- Murilo Laino
-- Gabriel Gardenal
-- Gabriel Lopes
-- Emanuel Moura
-- Carlos Eduardo
-
-**Título:** Classificação de Imagens Aplicada à Agricultura de Precisão<br>
-**Disciplina:** Complexidade de Algoritmos<br>
-**Curso:** Ciência da Computação<br>
-**Universidade:** Universidade Cruzeiro do Sul<br>
+### SOBRE A INSTITUIÇÃO: 
+**DISCIPLINA:** Complexidade de Algoritmos<br>
+**CURSO:** Ciência da Computação<br>
+**PERÍODO**: 6° Semeste 05/08/25 - 05/12/25<br>
+**DOCENTE:** Waldinelly Martha<br>
+**INSTITUIÇÃO DE ENSINO:** Centro Universitário Nossa Senhora do Patrocínio (Salto - SP)<br>
+</details>
   
