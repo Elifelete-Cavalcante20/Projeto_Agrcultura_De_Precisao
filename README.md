@@ -11,7 +11,7 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
 ### OBJETIVOS
 
 - Aplicar técnicas de aprendizado de máquina para classificação de imagens agrícolas.
-- Avaliar e comparar a complexidade de algoritmos usados em diferentes etapas do pipeline:
+- Avaliar e comparar a complexidade de algoritmos usados em diferentes etapas do pipeline.
 - Pré-processamento de imagens.
 - Extração de características.
 - Classificação.
