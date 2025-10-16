@@ -12,9 +12,9 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
 
 - Aplicar técnicas de aprendizado de máquina para classificação de imagens agrícolas.
 - Avaliar e comparar a complexidade de algoritmos usados em diferentes etapas do pipeline:
-- Pré-processamento de imagens
-- Extração de características
-- Classificação
+- Pré-processamento de imagens.
+- Extração de características.
+- Classificação.
 - Discutir o impacto da complexidade computacional no desempenho do sistema para uso em campo (em dispositivos embarcados, drones, etc).
 - Implementar um protótipo funcional com dataset real ou simulado.
 
@@ -35,7 +35,7 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
   - Murilo Laino  
   - Gabriel Gardenal  
   - Gabriel Lopes  
-  - Emanuel Moura  
+  - Emanuel Moura 
   - Carlos Eduardo  
 
   ### SOBRE A INSTITUIÇÃO: 
