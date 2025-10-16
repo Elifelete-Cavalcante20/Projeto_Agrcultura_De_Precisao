@@ -46,4 +46,11 @@ Aplicado no contexto da agricultura de precisão, o projeto busca contribuir par
   **INSTITUIÇÃO DE ENSINO:** Centro Universitário Nossa Senhora do Patrocínio (Salto - SP)<br>
 </details>
 
+<details>
+  <summary><strong>ESTRUTURAS DE UML</strong></summary>
+  
+  ### DIAGRAMAS:
+  <img width="400" height="250" alt="diagrama_classes" src="https://github.com/user-attachments/assets/07cdbb1e-5006-4084-b914-cd93bb1a41b1" />
+
+</details>
   
