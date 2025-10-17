@@ -38,8 +38,12 @@ Cada componente foi pensado para otimizar o desempenho computacional e garantir 
 
 ### ⬇️ Veja abaixo a representação visual das etapas do sistema:
 
-  <img width="400" height="250" alt="diagrama_classes" src="https://github.com/user-attachments/assets/07cdbb1e-5006-4084-b914-cd93bb1a41b1" />
-
+  <img width="400" height="300" alt="diagrama_classes" src="https://github.com/user-attachments/assets/07cdbb1e-5006-4084-b914-cd93bb1a41b1" />
+<br><br><br>
+  <img width="700" height="700" alt="diagrama_caso-uso" src="https://github.com/user-attachments/assets/25f0903e-b9a9-4895-a53d-b345a380fd56" />
+<br><br><br>
+  <img width="500" height="500" alt="diagrama_atividades" src="https://github.com/user-attachments/assets/e6abe776-0fe3-46e4-ae9f-a6cbd74a417b" />
+<br><br><br>
 </details>
 
 <details>
