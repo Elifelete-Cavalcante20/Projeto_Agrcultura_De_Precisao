@@ -1,0 +1,19 @@
+@startuml
+title Sistema de Reconhecimento de Doenças em Plantas - Diagrama de Atividades
+
+(*) --> "Abrir Sistema"
+--> "Selecionar Página de Reconhecimento"
+--> "Upload da Imagem da Planta"
+
+if "Imagem válida?" then
+  --> "Pré-processar Imagem"
+  --> "Carregar Modelo CNN"
+  --> "Executar Predição"
+  --> "Exibir Resultado ao Usuário"
+else
+  --> "Exibir Mensagem de Erro"
+endif
+
+--> "Usuário Analisa Resultado"
+--> (*)
+@enduml

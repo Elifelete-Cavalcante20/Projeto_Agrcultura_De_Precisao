@@ -1,0 +1,32 @@
+
+@startuml
+title Sistema de Reconhecimento de Doenças em Plantas - Diagrama de Classes
+
+class AplicacaoStreamlit {
+    +iniciarApp()
+    +exibirHome()
+    +exibirSobre()
+    +exibirReconhecimento()
+}
+
+class ProcessadorImagem {
+    +carregarImagem()
+    +preprocessarImagem()
+}
+
+class ModeloCNN {
+    +carregarModelo()
+    +preverDoenca(imagem)
+}
+
+class ResultadoPredicao {
+    -classePrevista
+    -confianca
+    +exibirResultado()
+}
+
+AplicacaoStreamlit --> ProcessadorImagem
+AplicacaoStreamlit --> ModeloCNN
+ModeloCNN --> ResultadoPredicao
+ProcessadorImagem --> ModeloCNN
+@enduml
