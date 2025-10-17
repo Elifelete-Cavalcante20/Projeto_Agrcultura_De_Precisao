@@ -47,9 +47,8 @@ Cada componente foi pensado para otimizar o desempenho computacional e garantir 
 </details>
 
 <details>
- ### <summary><strong>COMO FUNCIONA O SISTEMA</strong></summary>
-
-
+  <summary><strong>COMO FUNCIONA O SISTEMA</strong></summary>
+### Funcionamento 
 O sistema realiza a classificação automática de imagens agrícolas por meio de um pipeline baseado em visão computacional e aprendizado de máquina. As imagens são inicialmente pré-processadas para melhorar a qualidade e padronizar o formato. Em seguida, são extraídas características relevantes (como textura, cor e forma), que são utilizadas por algoritmos de classificação para identificar padrões relacionados a pragas, doenças, deficiências nutricionais ou condições do solo. O objetivo é fornecer uma análise rápida e precisa, que pode ser aplicada diretamente no campo por meio de dispositivos embarcados ou drones.
 </details>
 
