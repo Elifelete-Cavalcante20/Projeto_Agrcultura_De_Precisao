@@ -1,5 +1,3 @@
 # Arquivos ignorados por padrão
 /shelf/
 /workspace.xml
-Plant_Disease_Prediction/dataset/
-*.zip 

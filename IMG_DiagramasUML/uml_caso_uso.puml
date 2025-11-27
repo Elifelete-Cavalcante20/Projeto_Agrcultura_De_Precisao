@@ -1,0 +1,20 @@
+
+@startuml
+title Sistema de Reconhecimento de Doenças em Plantas - Caso de Uso
+
+actor "Usuário Agricultor" as User
+
+rectangle "Sistema de Reconhecimento de Doenças" {
+    usecase "Acessar Página Inicial" as UC1
+    usecase "Consultar Informações do Projeto" as UC2
+    usecase "Realizar Upload de Imagem da Planta" as UC3
+    usecase "Executar Predição da Doença" as UC4
+    usecase "Visualizar Resultado da Predição" as UC5
+}
+
+User --> UC1
+User --> UC2
+User --> UC3
+User --> UC4
+User --> UC5
+@enduml
