@@ -1,0 +1,6 @@
+# Ignorar dataset
+Plant_Disease_Prediction/dataset/
+*.zip
+venv/
+.venv/
+.idea/
